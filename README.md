@@ -12,3 +12,4 @@ A real-time glassmorphism themed and animated analog clock I made in my leisure 
 ## TODO
 - Add a toggle button for converting into a cool digital clock.
 - Add an animated css instead of image for the battery indication.
+- Make it responsive :)
